@@ -1,5 +1,5 @@
 class Sensor {}
-
+// Hello
 class SensorManager {
     constructor() {
         this.sensors = [];
